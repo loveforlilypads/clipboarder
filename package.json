@@ -1,4 +1,12 @@
 {
+    "name": "clipboarder",
+    "version": "0.0.1",
+    "description": "Simple proof of concept of an utility that reads and writes to the window system clipboard.",
+    "author": "ninrod <github.com/ninrod>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ninrod/clipboarder"
+    }
     "dependencies": {
         "copy-paste": "~1.1.4"
     }
